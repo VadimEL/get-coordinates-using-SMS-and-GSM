@@ -1,4 +1,5 @@
 
+![how_it_works](https://cloud.githubusercontent.com/assets/25621617/22741842/4482818c-ee1d-11e6-9d49-c5d37ccbf67f.jpg)
 
 Example of use
 
