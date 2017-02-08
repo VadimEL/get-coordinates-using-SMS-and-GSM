@@ -1,4 +1,8 @@
- String CENG_0;//вышка 0 информация
+
+
+Example of use
+
+                    String CENG_0;//вышка 0 информация
                     String CENG_1;//вышка 1 информация
                     String CENG_2;//вышка 2 информация
                     String String_CENG_INFO_not_encoded_in_base64;//строка не кодированная в base64
